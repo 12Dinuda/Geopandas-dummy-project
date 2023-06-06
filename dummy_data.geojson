@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Sno": 1, "description": "MS scrap", "custodian": "A", "location": "WS1", "coordinates": "21.7645, 72.1519", "value": 20, "image": null, "remark": "Bhavnagar", "latitude": 21.7645, "longitude": 72.1519 }, "geometry": { "type": "Point", "coordinates": [ 72.1519, 21.7645 ] } },
+{ "type": "Feature", "properties": { "Sno": 2, "description": "Rail 50R", "custodian": "A", "location": "WS2", "coordinates": "21.5174, 70.4644", "value": 100, "image": null, "remark": "Junagadh", "latitude": 21.5174, "longitude": 70.4644 }, "geometry": { "type": "Point", "coordinates": [ 70.4644, 21.5174 ] } },
+{ "type": "Feature", "properties": { "Sno": 3, "description": "Copper item", "custodian": "C", "location": "S2", "coordinates": "21.6406, 69.6118", "value": 140, "image": null, "remark": "Porbandar", "latitude": 21.6406, "longitude": 69.6118 }, "geometry": { "type": "Point", "coordinates": [ 69.6118, 21.6406 ] } },
+{ "type": "Feature", "properties": { "Sno": 4, "description": "Basti", "custodian": "D", "location": "S3", "coordinates": "20.9159, 70.3620", "value": 120, "image": null, "remark": "Veraval", "latitude": 20.9159, "longitude": 70.362 }, "geometry": { "type": "Point", "coordinates": [ 70.362, 20.9159 ] } },
+{ "type": "Feature", "properties": { "Sno": 5, "description": "Turning boring", "custodian": "B", "location": "S1", "coordinates": "22.1696, 71.6668", "value": 33, "image": null, "remark": "Botad", "latitude": 22.1696, "longitude": 71.6668 }, "geometry": { "type": "Point", "coordinates": [ 71.6668, 22.1696 ] } }
+]
+}
